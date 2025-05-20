@@ -24,4 +24,4 @@ This website was created with love and care by  Devendra Kumar If you have any f
 
 ### Copyright 📝
 
-&copy; 2025 Team FriendClas<sup>&reg;</sup> All rights reserved.
+&copy; 2025 Team FriendClass<sup>&reg;</sup> All rights reserved.
