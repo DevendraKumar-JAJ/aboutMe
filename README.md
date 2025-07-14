@@ -1,5 +1,5 @@
 # Personal simple Portfolio Website 🌐
-Visit Site : [@info-DevendraKumar](https://devendrakumar-jaj.github.io/aboutMe.github.io/)
+Visit Site : [@info-DevendraKumar](https://devendrakumar-jaj.github.io/aboutMe/)
 
 A simple yet effective portfolio website showcasing my skills and experience as a full-stack developer.
 
